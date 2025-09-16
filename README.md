@@ -75,3 +75,12 @@ python -m unittest test.test_app
 │       ├── test_data2.py
 │       └── test_data1.js
 ```
+
+---
+
+## 📊 State Diagram
+
+The diagram below shows how the **Code Line Counter** application transitions between states 
+when analyzing files and directories.
+
+![State Diagram](State_Diagram.svg)
